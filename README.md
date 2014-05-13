@@ -28,7 +28,7 @@ To kill one terminal you could run:
 
 ## Usage Image
 
-![tcp-chat image](https://dl.dropboxusercontent.com/u/12271106/tcp-chat.png "tcp-chat image")
+![tcp-chat image](https://github.com/rogerfernandezg/tcp-chat/blob/master/tcp-chat.png "tcp-chat image")
 
 ## Licence
 
